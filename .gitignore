@@ -1,0 +1,13 @@
+# IDE
+.idea
+.vscode
+
+# Python
+**/__pycache__
+venv
+
+# Data
+*.json
+.env
+node_modules
+lib
